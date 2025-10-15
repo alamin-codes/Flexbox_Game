@@ -1,0 +1,890 @@
+/* ____/Reset_css\____ */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1.title{
+    text-align: center;
+    width: 100%;
+    height: 50px;
+}
+body{
+    background: linear-gradient(to top left, #0400ff, #ff3d00);;
+}
+.main{
+    width: 700px;
+    border: 4px solid #013d3d;
+    margin-top: 30px;
+    padding: 10px;
+    margin: auto;
+    background: #888888;
+}
+
+/* ____/Section_01_css_start\____ */
+.section-01 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-01 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-01 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-01 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+.section-01:hover .box-02 i{
+    transform: translate(-370px);
+
+}
+/* ____/Section_01_css_end\____ */
+
+
+/* ____/Section_02_css_start\____ */
+.section-02{
+    margin-top: 30px;
+}
+.section-02 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-02 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-02 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-02 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+.section-02:hover .box-02 i{
+    transform: translate(-300px);
+
+}
+/* ____/Section_02_css_end\____ */
+
+
+/* ____/Section_03_css_start\____ */
+.section-03{
+    margin-top: 30px;
+}
+.section-03 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-03 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-03 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-03 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+.section-03:hover .box-02 i{
+    transform: translate(-225px);
+
+}
+/* ____/Section_03_css_end\____ */
+
+/* ____/Section_04_css_start\____ */
+.section-04{
+    margin-top: 30px;
+}
+.section-04 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-04 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-04 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-04 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+.section-04:hover .box-02 i{
+    transform: translate(-370px) translateY(80px);
+
+}
+/* ____/Section_04_css_end\____ */
+
+
+/* ____/Section_05_css_start\____ */
+.section-05{
+    margin-top: 30px;
+}
+.section-05 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-05 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-05 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-05 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+.section-05:hover .box-02 i{
+    transform: translate(-300px) translateY(80px);
+
+}
+/* ____/Section_05_css_end\____ */
+
+
+/* ____/Section_06_css_start\____ */
+.section-06{
+    margin-top: 30px;
+}
+.section-06 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-06 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-06 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-06 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+.section-06:hover .box-02 i{
+    transform: translate(-225px) translateY(80px);
+
+}
+/* ____/Section_06_css_end\____ */
+
+
+/* ____/Section_07_css_start\____ */
+.section-07{
+    margin-top: 30px;
+}
+.section-07 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-07 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-07 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-07 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-07:hover .box-02 i{
+    margin-right: 50px;
+    transform: translate(-370px);
+}
+.section-07:hover .box-02 i:last-child{
+    margin-right: 0;
+}
+/* ____/Section_07_css_end\____ */
+
+
+/* ____/Section_08_css_start\____ */
+.section-08{
+    margin-top: 30px;
+}
+.section-08 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-08 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-08 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-08 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-08:hover .box-02 i{
+    margin: 0 18px;
+    transform: translate(-370px);
+}
+/* ____/Section_08_css_end\____ */
+
+
+/* ____/Section_09_css_start\____ */
+.section-09{
+    margin-top: 30px;
+}
+.section-09 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-09 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-09 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-09 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-09:hover .box-02 i{
+    margin: 0 15px;
+    transform: translate(-360px);
+}
+/* ____/Section_09_css_end\____ */
+
+
+/* ____/Section_10_css_start\____ */
+.section-10{
+    margin-top: 30px;
+}
+.section-10 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-10 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-10 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-10 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-10:hover .box-02 i{
+    transform: translate(-370px) translateY(150px);
+}
+/* ____/Section_10_css_end\____ */
+
+
+/* ____/Section_11_css_start\____ */
+.section-11{
+    margin-top: 30px;
+}
+.section-11 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-11 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-11 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-11 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-11:hover .box-02 i{
+    transform: translate(-300px) translateY(150px);
+}
+
+/* ____/Section_11_css_end\____ */
+
+
+/* ____/Section_12_css_start\____ */
+.section-12{
+    margin-top: 30px;
+}
+.section-12 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-12 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-12 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-12 .box-02 i{
+    font-size: 30px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-12:hover .box-02 i{
+    transform: translate(-225px) translateY(150px);
+}
+
+/* ____/Section_12_css_end\____ */
+
+
+/* ____/Section_13_css_start\____ */
+.section-13{
+    margin-top: 30px;
+}
+.section-13 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-13 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-13 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-13 .box-02 i{
+    font-size: 25px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-13:hover .box-02 i{
+    margin-right: 200px;
+    margin-bottom: 27px;
+    transform: translate(-370px);
+}
+.section-13:hover .box-02 i:last-child{
+    margin-bottom: 0;
+}
+/* ____/Section_13_css_end\____ */
+
+
+/* ____/Section_14_css_start\____ */
+.section-14{
+    margin-top: 30px;
+}
+.section-14 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-14 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-14 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-14 .box-02 i{
+    font-size: 20px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-14:hover .box-02 i{
+    margin: 13px 200px 13px 0;
+    transform: translate(-370px);
+}
+/* ____/Section_14_css_end\____ */
+
+
+/* ____/Section_15_css_start\____ */
+.section-15{
+    margin-top: 30px;
+}
+.section-15 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-15 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-15 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-15 .box-02 i{
+    font-size: 20px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-15:hover .box-02 i{
+    margin: 13px 200px 11px 0;
+    transform: translate(-370px);
+}
+/* ____/Section_15_css_end\____ */
+
+
+/* ____/Section_16_css_start\____ */
+.section-16{
+    margin-top: 30px;
+}
+.section-16 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-16 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-16 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-16 .box-02 i{
+    font-size: 25px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-16:hover .box-02 i{
+    margin-right: 200px;
+    margin-bottom: 27px;
+    transform: translate(-240px);
+}
+.section-16:hover .box-02 i:last-child{
+    margin-bottom: 0;
+}
+/* ____/Section_16_css_end\____ */
+
+
+/* ____/Section_17_css_start\____ */
+.section-17{
+    margin-top: 30px;
+}
+.section-17 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-17 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-17 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-17 .box-02 i{
+    font-size: 20px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-17:hover .box-02 i{
+    margin: 13px 200px 13px 0;
+    transform: translate(-240px);
+}
+/* ____/Section_17_css_end\____ */
+
+
+/* ____/Section_18_css_start\____ */
+.section-18{
+    margin-top: 30px;
+}
+.section-18 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-18 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-18 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-18 .box-02 i{
+    font-size: 20px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-18:hover .box-02 i{
+    margin: 13px 200px 11px 0;
+    transform: translate(-240px);
+}
+/* ____/Section_18_css_end\____ */
+
+
+/* ____/Section_19_css_start\____ */
+.section-19{
+    margin-top: 30px;
+}
+.section-19 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-19 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-19 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-19 .box-02 i{
+    font-size: 25px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-19:hover .box-02 i{
+    margin-right: 200px;
+    margin-bottom: 27px;
+    transform: translate(-117px);
+}
+.section-19:hover .box-02 i:last-child{
+    margin-bottom: 0;
+}
+/* ____/Section_19_css_end\____ */
+
+
+/* ____/Section_20_css_start\____ */
+.section-20{
+    margin-top: 30px;
+}
+.section-20 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-20 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-20 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-20 .box-02 i{
+    font-size: 20px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-20:hover .box-02 i{
+    margin: 13px 200px 13px 0;
+    transform: translate(-117px);
+}
+/* ____/Section_20_css_end\____ */
+
+
+/* ____/Section_21_css_start\____ */
+.section-21{
+    margin-top: 30px;
+}
+.section-21 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-21 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-21 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-21 .box-02 i{
+    font-size: 20px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-21:hover .box-02 i{
+    margin: 13px 200px 11px 0;
+    transform: translate(-117px);
+}
+/* ____/Section_21_css_end\____ */
+
+
+/* ____/Section_22_css_start\____ */
+.section-22{
+    margin-top: 30px;
+}
+.section-22 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-22 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-22 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-22 .box-02 i{
+    font-size: 20px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-22:hover .box-02 i{
+    margin-right: 200px;
+    transform: translate(-370px);
+}
+/* ____/Section_22_css_end\____ */
+
+
+/* ____/Section_23_css_start\____ */
+.section-23{
+    margin-top: 30px;
+}
+.section-23 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-23 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-23 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-23 .box-02 i{
+    font-size: 20px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-23:hover .box-02 i{
+    margin-right: 200px;
+    transform: translate(-240px) translateY(50px);
+}
+/* ____/Section_23_css_end\____ */
+
+
+/* ____/Section_24_css_start\____ */
+.section-24{
+    margin-top: 30px;
+}
+.section-24 .sec-box{
+    display: flex;
+    justify-content: space-between;
+}
+.section-24 .box-01{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section-24 .box-02{
+    width: 300px;
+    height: 200px;
+    border: 3px solid purple;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.section-24 .box-02 i{
+    font-size: 20px;
+    color: purple;
+    transition: 1s;
+}
+
+.section-24:hover .box-02 i{
+    margin-right: 200px;
+    transform: translate(-117px) translateY(100px);
+}
+/* ____/Section_24_css_end\____ */
